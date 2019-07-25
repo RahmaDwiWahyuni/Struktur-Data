@@ -1,0 +1,13 @@
+x = [6,12,18]
+y = [15,20,25]
+
+# Menghitung Jumlah Nilai Kedua Array
+xTotal = sum(x)
+xTotal = sum(z)
+jumlah = xTotal + zTotal
+print ("Jumlah Nilai Kedua Array")
+print (jumlah)
+
+# Menggabungkan Kedua Data Array
+print ("Menggabungkan Kedua Data Array")
+print (x + z)
