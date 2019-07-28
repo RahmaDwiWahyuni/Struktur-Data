@@ -1,4 +1,3 @@
-# Double Linked List
 class Node(object):
 
     def __init__ (self, d, n = None, p = None):
@@ -23,7 +22,6 @@ class Node(object):
 
     def set_data (self, d):
         self.data = d
-
 
 class LinkedList (object):
 
